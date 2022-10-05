@@ -1,0 +1,6 @@
+# GET http://localhost/api/test.data?api_token=B1SZrKI6Yn5dT2dwNT5xi1BNUbcNY6RyVvRIuuiRHMMTI4QdfI1yGipxVsY7Q5Y6NgXr0lPXxT1hMtgZ
+
+POST http://localhost/api/test.save
+Content-Type: application/x-www-form-urlencoded
+
+json={}&api_token=1
